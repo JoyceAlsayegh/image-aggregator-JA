@@ -1,1 +1,1 @@
-﻿# image-aggregator-JA
+﻿# About
